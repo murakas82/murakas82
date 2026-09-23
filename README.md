@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/profile-banner.svg"
+       alt="Ilmar - Software Development Student"
+       width="720">
+</p>
 ## About me
 
 I'm currently studying software development and using GitHub to document what I build and learn along the way.
