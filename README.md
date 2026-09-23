@@ -69,10 +69,16 @@ Some repositories here are deliberately small. They are exercises where I'm lear
 
 ## GitHub activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=murakas82&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Ilmar's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murakas82&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages">
-</p>
+I'm using GitHub mainly to document my progress and keep my learning projects in one place.
+
+### Main areas I'm working with
+
+- Laravel / PHP
+- SQL and databases
+- C# / .NET
+- HTML, CSS and JavaScript
+- Git and GitHub
+- Docker
 
 ---
 
