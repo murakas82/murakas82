@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Ilmar 👋
 
-<!--
-**murakas82/murakas82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development Student
 
-Here are some ideas to get you started:
+Currently learning:
+C# • .NET • SQL • HTML • CSS • JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me
+I'm currently studying software development and building my
+experience through school projects and small personal projects.
+
+What I'm working on
+• C# / WinForms applications
+• SQL databases
+• Web development
+• Learning Git and GitHub
+
+Technologies
+[ C# ] [ .NET ] [ MySQL ] [ HTML ] [ CSS ] [ JavaScript ]
+
+My Projects
+→ Sudoku
+→ School database project
+→ Other projects...
+
+GitHub statistics
+████████████████
