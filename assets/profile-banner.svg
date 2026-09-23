@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240">
+  <rect width="720" height="240" rx="30" fill="#0d1117"/>
+  <circle cx="120" cy="120" r="82" fill="#161b22" stroke="#30363d" stroke-width="5"/>
+  <text x="120" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" fill="#f0f6fc">IM</text>
+  <text x="45" y="133" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#58a6ff">&lt;</text>
+  <text x="168" y="133" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#58a6ff">/&gt;</text>
+
+<text x="235" y="104" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#f0f6fc">Ilmar</text> <text x="237" y="145" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#8b949e">Software Development Student</text> <text x="237" y="181" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#3fb950">murakas82 • learning by building</text> </svg>
