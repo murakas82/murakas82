@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/profile-banner.svg"
        alt="Ilmar - Software Development Student · Techno TLN"
-       width="720">
+       width="1080">
 </p>
 ## About me
 
